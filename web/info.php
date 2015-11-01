@@ -1,3 +1,4 @@
 <?php
 
-echo '<h2>GajendraL:: Shopify APP Development</h2>';
+echo '<h2>Dynamic User Interface.</h2>';
+echo '<p>App is underdevelpoment..</p>';
